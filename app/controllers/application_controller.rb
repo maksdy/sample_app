@@ -1,7 +1,7 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   def hello
-  	render plain: "hello, world!"
+  	render plain: "Кыця, я тебя люблю"
   end
 end
 
