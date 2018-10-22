@@ -213,7 +213,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   listen
   pg
-  puma (~> 3.11)
+  puma
   rails (~> 5.2.1)
   rails-controller-testing
   rails_12factor
